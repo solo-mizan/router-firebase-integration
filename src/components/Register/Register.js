@@ -5,6 +5,9 @@ const Register = () => {
         <div>
             <h1>Register here</h1>
             <button>Google sign up</button>
+
+            {/* New user sign in form */}
+
             <form>
                 <input placeholder='Your name' type="text" name="" />
                 <br />
